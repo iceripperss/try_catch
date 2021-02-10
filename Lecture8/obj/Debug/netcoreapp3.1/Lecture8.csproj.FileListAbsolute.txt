@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Lecture8\Lecture8\bin\Debug\netcoreapp3.1\Lecture8.exe
+C:\Users\User\source\repos\Lecture8\Lecture8\bin\Debug\netcoreapp3.1\Lecture8.deps.json
+C:\Users\User\source\repos\Lecture8\Lecture8\bin\Debug\netcoreapp3.1\Lecture8.runtimeconfig.json
+C:\Users\User\source\repos\Lecture8\Lecture8\bin\Debug\netcoreapp3.1\Lecture8.runtimeconfig.dev.json
+C:\Users\User\source\repos\Lecture8\Lecture8\bin\Debug\netcoreapp3.1\Lecture8.dll
+C:\Users\User\source\repos\Lecture8\Lecture8\bin\Debug\netcoreapp3.1\Lecture8.pdb
+C:\Users\User\source\repos\Lecture8\Lecture8\obj\Debug\netcoreapp3.1\Lecture8.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lecture8\Lecture8\obj\Debug\netcoreapp3.1\Lecture8.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lecture8\Lecture8\obj\Debug\netcoreapp3.1\Lecture8.AssemblyInfo.cs
+C:\Users\User\source\repos\Lecture8\Lecture8\obj\Debug\netcoreapp3.1\Lecture8.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lecture8\Lecture8\obj\Debug\netcoreapp3.1\Lecture8.dll
+C:\Users\User\source\repos\Lecture8\Lecture8\obj\Debug\netcoreapp3.1\Lecture8.pdb
+C:\Users\User\source\repos\Lecture8\Lecture8\obj\Debug\netcoreapp3.1\Lecture8.genruntimeconfig.cache
